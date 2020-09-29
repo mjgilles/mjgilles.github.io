@@ -1,18 +1,19 @@
-Forty by HTML5 UP
+Helios by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
+to take advantage of larger (well, wider) displays while still being capable of gracefully
+scaling down to fit all manner of smaller ones.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
+deviantART. Check out his portfolio here:
 
-(* = not included)
+http://md.photomerchant.net/
+
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Michaels's work without his explicit permission!)
 
 AJ
 aj@lkn.io | @ajlkn
@@ -21,7 +22,7 @@ aj@lkn.io | @ajlkn
 Credits:
 
 	Demo Images:
-		Unsplash (unsplash.com)
+		Michael Domaradzki (md.photomerchant.net)
 
 	Icons:
 		Font Awesome (fontawesome.io)
